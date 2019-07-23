@@ -15,10 +15,13 @@
 
 [Spring](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html#boot-features-embedded-database-support)
 
+[菜鸟教程](https://www.runoob.com/mysql/mysql-insert-query.html)
 ## 工具
 [Git](https://git-scm.com/downloads)
 
 [Visual Paradigm](https://www.visual-paradigm.com/cn/)
+
+[Flyway](https://flywaydb.org/getstarted/firststeps/maven)
 
 ## 脚本
 ```sql
@@ -32,4 +35,9 @@ create table USER
 	GMT_MODIFIED BIGINT
 );
 
+```
+
+```
+mvn flyway:migrate
+mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 ```
