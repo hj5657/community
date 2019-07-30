@@ -16,6 +16,8 @@
 [Spring](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-sql.html#boot-features-embedded-database-support)
 
 [菜鸟教程](https://www.runoob.com/mysql/mysql-insert-query.html)
+
+[Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#setting-attribute-values)
 ## 工具
 [Git](https://git-scm.com/downloads)
 
